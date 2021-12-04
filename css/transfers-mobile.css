@@ -1,0 +1,2209 @@
+/* screen - transfers-mobile */
+
+.transfers-mobile {
+  background-color: var(--background);
+  height: 1782px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.transfers-mobile .nav-yFl0sy {
+  background-color: var(--background);
+  height: 149px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 377px;
+}
+
+.transfers-mobile .frame-5590-kfwdfx {
+  background-color: transparent;
+  height: 95px;
+  left: 30px;
+  position: relative;
+  top: 27px;
+  width: 347px;
+}
+
+.transfers-mobile .frame-5589-vuiixL {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 347px;
+}
+
+.transfers-mobile .frame-5587-1gFogK {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 4px;
+  width: 36px;
+}
+
+.transfers-mobile .screenshot-2021-10-23-at-1648-2-hO6lxx {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 36px;
+}
+
+.transfers-mobile .frame-5588-1gFogK {
+  background-color: var(--card-background);
+  border-radius: 21px;
+  box-shadow: 0px 4px 4px #aea4f40d;
+  height: 36px;
+  left: 60px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 265px;
+}
+
+.transfers-mobile .search-JHXs0J {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .screenshot-2021-10-23-at-1648-2-vuiixL {
+  background-color: transparent;
+  height: 35px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 60px;
+  width: 149px;
+}
+
+.transfers-mobile .frame-6149-yFl0sy {
+  background-color: transparent;
+  height: 1525px;
+  left: 16px;
+  position: absolute;
+  top: 174px;
+  width: 351px;
+}
+
+.transfers-mobile .frame-5608-NeB8tj {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 166px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 351px;
+}
+
+.transfers-mobile .frame-5607-eeP2K5 {
+  background-color: transparent;
+  height: 32px;
+  left: 16px;
+  position: absolute;
+  top: 19px;
+  width: 120px;
+}
+
+.transfers-mobile .frame-5593-JW9Qc8 {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 120px;
+}
+
+.transfers-mobile .send-money-WBXGL9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .enter-interac-e-within-24-hours-eeP2K5 {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 75px;
+  width: 327px;
+}
+
+.transfers-mobile .frame-6148-NeB8tj {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 510px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 206px;
+  width: 350px;
+}
+
+.transfers-mobile .frame-6147-YWjyoZ {
+  background-color: transparent;
+  height: 440px;
+  left: 15px;
+  position: relative;
+  top: 35px;
+  width: 320px;
+}
+
+.transfers-mobile .frame-6146-IbjpzS {
+  background-color: transparent;
+  height: 34px;
+  left: 2px;
+  position: absolute;
+  top: 0px;
+  width: 317px;
+}
+
+.transfers-mobile .send-money-SLsBdS {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .frame-6136-SLsBdS {
+  background-color: var(--card-background);
+  border-radius: 5px;
+  height: 36px;
+  left: 149px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 169px;
+}
+
+.transfers-mobile .conestoga-college-VGouvN {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .frame-6145-IbjpzS {
+  background-color: transparent;
+  height: 34px;
+  left: 2px;
+  position: absolute;
+  top: 66px;
+  width: 317px;
+}
+
+.transfers-mobile .frequency-LUxHzR {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .frame-6136-LUxHzR {
+  background-color: var(--card-background);
+  border-radius: 5px;
+  height: 36px;
+  left: 150px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 168px;
+}
+
+.transfers-mobile .conestoga-college-HJQGsi {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .frame-6144-IbjpzS {
+  background-color: transparent;
+  height: 34px;
+  left: 0px;
+  position: absolute;
+  top: 132px;
+  width: 319px;
+}
+
+.transfers-mobile .amount-V2Z9Rx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .frame-6136-V2Z9Rx {
+  background-color: var(--card-background);
+  border-radius: 5px;
+  height: 36px;
+  left: 150px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 170px;
+}
+
+.transfers-mobile .x500-u2YmBd {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .frame-6143-IbjpzS {
+  background-color: transparent;
+  height: 34px;
+  left: 0px;
+  position: absolute;
+  top: 198px;
+  width: 319px;
+}
+
+.transfers-mobile .from-account-37f2I7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .frame-6136-37f2I7 {
+  background-color: var(--card-background);
+  border-radius: 5px;
+  height: 36px;
+  left: 149px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 171px;
+}
+
+.transfers-mobile .no-fee-chequing-accou-9kSrYR {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .frame-6142-IbjpzS {
+  background-color: transparent;
+  height: 34px;
+  left: 0px;
+  position: absolute;
+  top: 264px;
+  width: 320px;
+}
+
+.transfers-mobile .when-M11bam {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .frame-6136-M11bam {
+  background-color: var(--card-background);
+  border-radius: 5px;
+  height: 36px;
+  left: 150px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 171px;
+}
+
+.transfers-mobile .december-12th-2021-OfY3Og {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .frame-6141-IbjpzS {
+  background-color: transparent;
+  height: 34px;
+  left: 2px;
+  position: absolute;
+  top: 330px;
+  width: 317px;
+}
+
+.transfers-mobile .message-jC1isd {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .frame-6136-jC1isd {
+  background-color: var(--card-background);
+  border-radius: 5px;
+  height: 36px;
+  left: 149px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 169px;
+}
+
+.transfers-mobile .deposit-fee-for-winter-Jv9qYV {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .button-IbjpzS {
+  background-color: var(--primary-color);
+  border-radius: 5px;
+  height: 44px;
+  left: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 396px;
+  width: 220px;
+}
+
+.transfers-mobile .continue-bKDljH {
+  background-color: transparent;
+  height: auto;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .frame-6140-NeB8tj {
+  background-color: transparent;
+  height: 769px;
+  left: 0px;
+  position: absolute;
+  top: 756px;
+  width: 351px;
+}
+
+.transfers-mobile .group-6074-ySukyW {
+  background-color: transparent;
+  height: 425px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 351px;
+}
+
+.transfers-mobile .rectangle-5-33Yxh0 {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 425px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 351px;
+}
+
+.transfers-mobile .frame-6134-33Yxh0 {
+  background-color: transparent;
+  height: 389px;
+  left: 33px;
+  position: absolute;
+  top: 18px;
+  width: 286px;
+}
+
+.transfers-mobile .you-can-also-MmrakC {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .frame-6133-MmrakC {
+  background-color: transparent;
+  height: 340px;
+  left: 0px;
+  position: absolute;
+  top: 49px;
+  width: 276px;
+}
+
+.transfers-mobile .frame-6073-gPryNU {
+  background-color: transparent;
+  height: 68px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+
+.transfers-mobile .request-money-uxwOaV {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .line-3-uxwOaV {
+  background-color: transparent;
+  height: 1px;
+  left: 16px;
+  position: absolute;
+  top: 56px;
+  width: 231px;
+}
+
+.transfers-mobile .frame-6074-gPryNU {
+  background-color: transparent;
+  height: 68px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 68px;
+  width: 276px;
+}
+
+.transfers-mobile .manage-payees-xVkwjA {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .line-3-xVkwjA {
+  background-color: transparent;
+  height: 1px;
+  left: 16px;
+  position: absolute;
+  top: 56px;
+  width: 231px;
+}
+
+.transfers-mobile .frame-6075-gPryNU {
+  background-color: transparent;
+  height: 68px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 136px;
+  width: 276px;
+}
+
+.transfers-mobile .change-autodeposit-settings-DGWWy0 {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .line-3-DGWWy0 {
+  background-color: transparent;
+  height: 1px;
+  left: 16px;
+  position: absolute;
+  top: 56px;
+  width: 231px;
+}
+
+.transfers-mobile .frame-6076-gPryNU {
+  background-color: transparent;
+  height: 68px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 204px;
+  width: 276px;
+}
+
+.transfers-mobile .view-payment-history-1hpH3p {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .line-3-1hpH3p {
+  background-color: transparent;
+  height: 1px;
+  left: 16px;
+  position: absolute;
+  top: 56px;
+  width: 231px;
+}
+
+.transfers-mobile .frame-6077-gPryNU {
+  background-color: transparent;
+  height: 68px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 272px;
+  width: 276px;
+}
+
+.transfers-mobile .exchange-currencies-X1H5z7 {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .line-3-X1H5z7 {
+  background-color: transparent;
+  height: 1px;
+  left: 16px;
+  position: absolute;
+  top: 56px;
+  width: 231px;
+}
+
+.transfers-mobile .group-6076-ySukyW {
+  background-color: transparent;
+  height: 320px;
+  left: 0px;
+  position: absolute;
+  top: 449px;
+  width: 351px;
+}
+
+.transfers-mobile .rectangle-5-PSCjtI {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 317px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 351px;
+}
+
+.transfers-mobile .frame-6135-PSCjtI {
+  background-color: transparent;
+  height: 305px;
+  left: 27px;
+  position: absolute;
+  top: 15px;
+  width: 286px;
+}
+
+.transfers-mobile .frame-6071-8DgrQ8 {
+  background-color: transparent;
+  height: 51px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+
+.transfers-mobile .recent-transfers-rqzIp3 {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .group-6075-8DgrQ8 {
+  background-color: transparent;
+  height: 254px;
+  left: 0px;
+  position: absolute;
+  top: 51px;
+  width: 276px;
+}
+
+.transfers-mobile .frame-6073-Pgymqm {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+
+.transfers-mobile .sobeys-salary-yo6xPq {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .november-13th-2021-yo6xPq {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .line-3-yo6xPq {
+  background-color: transparent;
+  height: 2px;
+  left: 16px;
+  position: absolute;
+  top: 48px;
+  width: 231px;
+}
+
+.transfers-mobile .x45900-yo6xPq {
+  background-color: transparent;
+  height: auto;
+  left: 168px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .frame-6074-Pgymqm {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 77px;
+  width: 276px;
+}
+
+.transfers-mobile .rogers-nPnGT7 {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .november-11th-2021-nPnGT7 {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .line-3-nPnGT7 {
+  background-color: transparent;
+  height: 2px;
+  left: 16px;
+  position: absolute;
+  top: 48px;
+  width: 231px;
+}
+
+.transfers-mobile .x-nPnGT7 {
+  background-color: transparent;
+  height: auto;
+  left: 168px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .x8599-nPnGT7 {
+  background-color: transparent;
+  height: auto;
+  left: 181px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .frame-6078-Pgymqm {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 154px;
+  width: 276px;
+}
+
+.transfers-mobile .november-1st-2021-nAhtuO {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .line-3-nAhtuO {
+  background-color: transparent;
+  height: 2px;
+  left: 16px;
+  position: absolute;
+  top: 48px;
+  width: 231px;
+}
+
+.transfers-mobile .x-nAhtuO {
+  background-color: transparent;
+  height: auto;
+  left: 168px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .x70000-nAhtuO {
+  background-color: transparent;
+  height: auto;
+  left: 181px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-mobile .landlord-nAhtuO {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+/* screen - transfers-page-desktop */
+
+.transfers-page-desktop {
+  background-color: var(--background);
+  height: 893px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.transfers-page-desktop .menu-G8ekWE {
+  background-color: transparent;
+  height: 499px;
+  left: 11px;
+  position: absolute;
+  top: 200px;
+  width: 73px;
+}
+
+.transfers-page-desktop .frame-6060-iw0wHb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 20px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 34px;
+}
+
+.transfers-page-desktop .frame-6060-iw0wHb:hover {
+  transform: scale(1.1);
+}
+
+.transfers-page-desktop .home-vt00xe {
+  background-color: transparent;
+  height: 30px;
+  left: 2px;
+  position: absolute;
+  top: -1px;
+  width: 29px;
+}
+
+.transfers-page-desktop .home-uIkIGG {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .frame-6064-iw0wHb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 111px;
+  transition: all 0.2s ease;
+  width: 73px;
+}
+
+.transfers-page-desktop .frame-6064-iw0wHb:hover {
+  transform: scale(1.1);
+}
+
+.transfers-page-desktop .grid-layout-hVxDG2 {
+  background-color: transparent;
+  height: 30px;
+  left: 22px;
+  position: absolute;
+  top: -1px;
+  width: 29px;
+}
+
+.transfers-page-desktop .transactions-hVxDG2 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .frame-6061-iw0wHb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 20px;
+  pointer-events: auto;
+  position: absolute;
+  top: 222px;
+  transition: all 0.2s ease;
+  width: 34px;
+}
+
+.transfers-page-desktop .frame-6061-iw0wHb:hover {
+  transform: scale(1.1);
+}
+
+.transfers-page-desktop .briefcase-alt-mF3tqk {
+  background-color: transparent;
+  height: 30px;
+  left: 2px;
+  position: absolute;
+  top: -1px;
+  width: 29px;
+}
+
+.transfers-page-desktop .invest-mF3tqk {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .frame-6062-iw0wHb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 13px;
+  pointer-events: auto;
+  position: absolute;
+  top: 333px;
+  transition: all 0.2s ease;
+  width: 47px;
+}
+
+.transfers-page-desktop .frame-6062-iw0wHb:hover {
+  transform: scale(1.1);
+}
+
+.transfers-page-desktop .send-fCZCWI {
+  background-color: transparent;
+  height: 30px;
+  left: 9px;
+  position: absolute;
+  top: -1px;
+  width: 29px;
+}
+
+.transfers-page-desktop .transfer-fCZCWI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .frame-6063-iw0wHb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 22px;
+  pointer-events: auto;
+  position: absolute;
+  top: 444px;
+  transition: all 0.2s ease;
+  width: 28px;
+}
+
+.transfers-page-desktop .frame-6063-iw0wHb:hover {
+  transform: scale(1.1);
+}
+
+.transfers-page-desktop .chat-FsFcdP {
+  background-color: transparent;
+  height: 30px;
+  left: -0px;
+  position: absolute;
+  top: -1px;
+  width: 29px;
+}
+
+.transfers-page-desktop .help-FsFcdP {
+  background-color: transparent;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .nav-G8ekWE {
+  background-color: transparent;
+  height: 90px;
+  left: 24px;
+  position: absolute;
+  top: 3px;
+  width: 1393px;
+}
+
+.transfers-page-desktop .top-nav-lwisXx {
+  background-color: var(--background);
+  height: 90px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 1393px;
+}
+
+.transfers-page-desktop .frame-5590-1xOOvx {
+  background-color: transparent;
+  height: 36px;
+  left: 30px;
+  position: relative;
+  top: 27px;
+  width: 1333px;
+}
+
+.transfers-page-desktop .frame-5589-NcFAy4 {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 620px;
+}
+
+.transfers-page-desktop .frame-5587-xAKL11 {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 137px;
+}
+
+.transfers-page-desktop .digital-bank-EFltyC {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .frame-5588-xAKL11 {
+  background-color: var(--card-background);
+  border-radius: 21px;
+  box-shadow: 0px 4px 4px #aea4f40d;
+  height: 36px;
+  left: 168px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 452px;
+}
+
+.transfers-page-desktop .search-AbmhRX {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .screenshot-2021-10-23-at-1648-2-NcFAy4 {
+  background-color: transparent;
+  height: 35px;
+  left: 1172px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 161px;
+}
+
+.transfers-page-desktop .frame-6140-G8ekWE {
+  background-color: transparent;
+  height: 769px;
+  left: 1071px;
+  position: absolute;
+  top: 93px;
+  width: 339px;
+}
+
+.transfers-page-desktop .group-6074-Ybi6YW {
+  background-color: transparent;
+  height: 425px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 339px;
+}
+
+.transfers-page-desktop .rectangle-5-g5zINH {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 425px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 339px;
+}
+
+.transfers-page-desktop .frame-6134-g5zINH {
+  background-color: transparent;
+  height: 389px;
+  left: 32px;
+  position: absolute;
+  top: 18px;
+  width: 276px;
+}
+
+.transfers-page-desktop .you-can-also-cCHuKx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .frame-6133-cCHuKx {
+  background-color: transparent;
+  height: 340px;
+  left: 0px;
+  position: absolute;
+  top: 49px;
+  width: 276px;
+}
+
+.transfers-page-desktop .frame-6073-fIAqxK {
+  background-color: transparent;
+  height: 68px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+
+.transfers-page-desktop .request-money-RuxUui {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .line-3-RuxUui {
+  background-color: transparent;
+  height: 1px;
+  left: 17px;
+  position: absolute;
+  top: 56px;
+  width: 230px;
+}
+
+.transfers-page-desktop .frame-6074-fIAqxK {
+  background-color: transparent;
+  height: 68px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 68px;
+  width: 276px;
+}
+
+.transfers-page-desktop .manage-payees-X5eLmh {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .line-3-X5eLmh {
+  background-color: transparent;
+  height: 1px;
+  left: 17px;
+  position: absolute;
+  top: 56px;
+  width: 230px;
+}
+
+.transfers-page-desktop .frame-6075-fIAqxK {
+  background-color: transparent;
+  height: 68px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 136px;
+  width: 276px;
+}
+
+.transfers-page-desktop .change-autodeposit-settings-OZWlxC {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .line-3-OZWlxC {
+  background-color: transparent;
+  height: 1px;
+  left: 17px;
+  position: absolute;
+  top: 56px;
+  width: 230px;
+}
+
+.transfers-page-desktop .frame-6076-fIAqxK {
+  background-color: transparent;
+  height: 68px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 204px;
+  width: 276px;
+}
+
+.transfers-page-desktop .view-payment-history-H2XBMf {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .line-3-H2XBMf {
+  background-color: transparent;
+  height: 1px;
+  left: 17px;
+  position: absolute;
+  top: 56px;
+  width: 230px;
+}
+
+.transfers-page-desktop .frame-6077-fIAqxK {
+  background-color: transparent;
+  height: 68px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 272px;
+  width: 276px;
+}
+
+.transfers-page-desktop .exchange-currencies-yQUzDs {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .line-3-yQUzDs {
+  background-color: transparent;
+  height: 1px;
+  left: 17px;
+  position: absolute;
+  top: 56px;
+  width: 230px;
+}
+
+.transfers-page-desktop .group-6076-Ybi6YW {
+  background-color: transparent;
+  height: 320px;
+  left: 0px;
+  position: absolute;
+  top: 449px;
+  width: 339px;
+}
+
+.transfers-page-desktop .rectangle-5-SMiqIZ {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 317px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 339px;
+}
+
+.transfers-page-desktop .frame-6135-SMiqIZ {
+  background-color: transparent;
+  height: 305px;
+  left: 26px;
+  position: absolute;
+  top: 15px;
+  width: 276px;
+}
+
+.transfers-page-desktop .frame-6071-1IxJk2 {
+  background-color: transparent;
+  height: 51px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+
+.transfers-page-desktop .recent-transfers-WTmGky {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .group-6075-1IxJk2 {
+  background-color: transparent;
+  height: 254px;
+  left: 0px;
+  position: absolute;
+  top: 51px;
+  width: 276px;
+}
+
+.transfers-page-desktop .frame-6073-dym7Xr {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+
+.transfers-page-desktop .sobeys-salary-iixVU0 {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .november-13th-2021-iixVU0 {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .line-3-iixVU0 {
+  background-color: transparent;
+  height: 2px;
+  left: 17px;
+  position: absolute;
+  top: 48px;
+  width: 230px;
+}
+
+.transfers-page-desktop .x45900-iixVU0 {
+  background-color: transparent;
+  height: auto;
+  left: 168px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .frame-6074-dym7Xr {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 77px;
+  width: 276px;
+}
+
+.transfers-page-desktop .rogers-KVMbBQ {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .november-11th-2021-KVMbBQ {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .line-3-KVMbBQ {
+  background-color: transparent;
+  height: 2px;
+  left: 17px;
+  position: absolute;
+  top: 48px;
+  width: 230px;
+}
+
+.transfers-page-desktop .x-KVMbBQ {
+  background-color: transparent;
+  height: auto;
+  left: 168px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .x8599-KVMbBQ {
+  background-color: transparent;
+  height: auto;
+  left: 181px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .frame-6078-dym7Xr {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 154px;
+  width: 276px;
+}
+
+.transfers-page-desktop .november-1st-2021-eRYUhV {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .line-3-eRYUhV {
+  background-color: transparent;
+  height: 2px;
+  left: 17px;
+  position: absolute;
+  top: 48px;
+  width: 230px;
+}
+
+.transfers-page-desktop .x-eRYUhV {
+  background-color: transparent;
+  height: auto;
+  left: 168px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .x70000-eRYUhV {
+  background-color: transparent;
+  height: auto;
+  left: 181px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .landlord-eRYUhV {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .frame-6139-G8ekWE {
+  background-color: transparent;
+  height: 707px;
+  left: 102px;
+  position: absolute;
+  top: 93px;
+  width: 951px;
+}
+
+.transfers-page-desktop .frame-5608-w8jxE5 {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 203px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 951px;
+}
+
+.transfers-page-desktop .frame-5607-5EH4Rj {
+  background-color: transparent;
+  height: 138px;
+  left: 30px;
+  position: relative;
+  top: 33px;
+  width: 683px;
+}
+
+.transfers-page-desktop .frame-5593-M4n1zf {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 144px;
+}
+
+.transfers-page-desktop .send-money-iUL4YF {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .enter-interac-e-24-hour-period-M4n1zf {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 64px;
+  width: 683px;
+}
+
+.transfers-page-desktop .frame-6138-w8jxE5 {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 480px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 227px;
+  width: 951px;
+}
+
+.transfers-page-desktop .frame-6137-fL6KhX {
+  background-color: transparent;
+  height: 392px;
+  left: 30px;
+  position: relative;
+  top: 44px;
+  width: 813px;
+}
+
+.transfers-page-desktop .nav-input-field-0naFWl {
+  background-color: transparent;
+  height: 34px;
+  left: 2px;
+  position: absolute;
+  top: 0px;
+  width: 811px;
+}
+
+.transfers-page-desktop .send-money-HeXjki {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .frame-6136-HeXjki {
+  background-color: var(--card-background);
+  border-radius: 5px;
+  height: 36px;
+  left: 275px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 537px;
+}
+
+.transfers-page-desktop .conestoga-college-cfHMXb {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .nav-input-field-AA35eM {
+  background-color: transparent;
+  height: 34px;
+  left: 1px;
+  position: absolute;
+  top: 58px;
+  width: 812px;
+}
+
+.transfers-page-desktop .send-money-I0WbQk {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .frame-6136-I0WbQk {
+  background-color: var(--card-background);
+  border-radius: 5px;
+  height: 36px;
+  left: 276px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 537px;
+}
+
+.transfers-page-desktop .conestoga-college-ypHYvK {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .nav-input-field-Utcpz1 {
+  background-color: transparent;
+  height: 34px;
+  left: 1px;
+  position: absolute;
+  top: 116px;
+  width: 812px;
+}
+
+.transfers-page-desktop .send-money-u1WoNM {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .frame-6136-u1WoNM {
+  background-color: var(--card-background);
+  border-radius: 5px;
+  height: 36px;
+  left: 276px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 537px;
+}
+
+.transfers-page-desktop .conestoga-college-Xd7Ac1 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .nav-input-field-lWSU5r {
+  background-color: transparent;
+  height: 34px;
+  left: 1px;
+  position: absolute;
+  top: 174px;
+  width: 812px;
+}
+
+.transfers-page-desktop .send-money-qEwgnk {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .frame-6136-qEwgnk {
+  background-color: var(--card-background);
+  border-radius: 5px;
+  height: 36px;
+  left: 276px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 537px;
+}
+
+.transfers-page-desktop .conestoga-college-JoHFWm {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .nav-input-field-d5CHkH {
+  background-color: transparent;
+  height: 34px;
+  left: 1px;
+  position: absolute;
+  top: 232px;
+  width: 812px;
+}
+
+.transfers-page-desktop .send-money-JTbzjo {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .frame-6136-JTbzjo {
+  background-color: var(--card-background);
+  border-radius: 5px;
+  height: 36px;
+  left: 276px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 537px;
+}
+
+.transfers-page-desktop .conestoga-college-kR4g2N {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .nav-input-field-YoAJx5 {
+  background-color: transparent;
+  height: 34px;
+  left: 0px;
+  position: absolute;
+  top: 290px;
+  width: 813px;
+}
+
+.transfers-page-desktop .send-money-UxsyQS {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .frame-6136-UxsyQS {
+  background-color: var(--card-background);
+  border-radius: 5px;
+  height: 36px;
+  left: 277px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 537px;
+}
+
+.transfers-page-desktop .conestoga-college-WTTrKt {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.transfers-page-desktop .button-0naFWl {
+  background-color: var(--primary-color);
+  border-radius: 5px;
+  height: 44px;
+  left: 593px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 348px;
+  width: 220px;
+}
+
+.transfers-page-desktop .continue-rS9Kvr {
+  background-color: transparent;
+  height: auto;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: auto;
+}
+@media screen and (max-width: 1439px) {
+  .screen.transfers-page-desktop { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.transfers-mobile { 
+    display: none;
+   }
+}

@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css?family=DM+Sans:400,700,500");
+@font-face {
+  font-family: "Cera Pro-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/Cera Pro Medium.otf") format("opentype");
+}
+@font-face {
+  font-family: "SF Pro-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/SF-Pro.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SF Pro Display-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/SF-Pro-Display-Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: "SF Pro-Semibold";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/FontsFree-Net-SFProDisplay-Semibold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Helvetica Neue-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/HelveticaNeueMedium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Helvetica Neue-Light";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/HelveticaNeue-Light.otf") format("opentype");
+}
+@font-face {
+  font-family: "Helvetica Neue-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/HelveticaNeue-Bold.ttf") format("truetype");
+}
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.smart-layers-pointers,
+.smart-layers-pointers * {
+  pointer-events: auto;
+  visibility: visible;
+}
+
+* {
+  box-sizing: border-box;
+}

@@ -1,0 +1,2208 @@
+/* screen - investment-mobile */
+
+.investment-mobile {
+  background-color: var(--background);
+  height: 2307px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.investment-mobile .nav-oI0FU8 {
+  background-color: var(--background);
+  height: 149px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.investment-mobile .frame-5590-PWr7GE {
+  background-color: transparent;
+  height: 95px;
+  left: 30px;
+  position: relative;
+  top: 27px;
+  width: 347px;
+}
+
+.investment-mobile .frame-5589-uy7cV3 {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 347px;
+}
+
+.investment-mobile .frame-5587-oNNxbO {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 4px;
+  width: 36px;
+}
+
+.investment-mobile .screenshot-2021-10-23-at-1648-2-shDF4h {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 36px;
+}
+
+.investment-mobile .frame-5588-oNNxbO {
+  background-color: var(--card-background);
+  border-radius: 21px;
+  box-shadow: 0px 4px 4px #aea4f40d;
+  height: 36px;
+  left: 60px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 265px;
+}
+
+.investment-mobile .search-Byep1g {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.investment-mobile .screenshot-2021-10-23-at-1648-2-uy7cV3 {
+  background-color: transparent;
+  height: 35px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 60px;
+  width: 149px;
+}
+
+.investment-mobile .frame-6132-oI0FU8 {
+  background-color: transparent;
+  height: 2013px;
+  left: 7px;
+  position: absolute;
+  top: 153px;
+  width: 377px;
+}
+
+.investment-mobile .frame-6119-4fNt6v {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 352px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 349px;
+}
+
+.investment-mobile .frame-6118-kefLqX {
+  background-color: transparent;
+  height: 298px;
+  left: 14px;
+  position: relative;
+  top: 27px;
+  width: 321px;
+}
+
+.investment-mobile .invest-toggle-fUHPuj {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 321px;
+}
+
+.investment-mobile .rectangle-32-dKz6AH {
+  background-color: #c4c4c4;
+  border-radius: 50px;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.investment-mobile .rectangle-15-dKz6AH {
+  background-color: var(--primary-color);
+  border-radius: 84px;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 104px;
+}
+
+.investment-mobile .rectangle-34-dKz6AH {
+  background-color: transparent;
+  border-radius: 84px;
+  height: 32px;
+  left: 109px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 104px;
+}
+
+.investment-mobile .crypto-dKz6AH {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  white-space: nowrap;
+  width: 58px;
+}
+
+.investment-mobile .rectangle-33-dKz6AH {
+  background-color: transparent;
+  border-radius: 84px;
+  height: 32px;
+  left: 217px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 104px;
+}
+
+.investment-mobile .stock-dKz6AH {
+  background-color: transparent;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.investment-mobile .other-dKz6AH {
+  background-color: transparent;
+  height: auto;
+  left: 254px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.investment-mobile .image-1-fUHPuj {
+  background-color: transparent;
+  height: 194px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 56px;
+  width: 326px;
+}
+
+.investment-mobile .frame-6101-fUHPuj {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 262px;
+  width: 321px;
+}
+
+.investment-mobile .frame-6100-xiovVP {
+  background-color: var(--primary-color);
+  border-radius: 84px;
+  height: 36px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.investment-mobile .yearly-FVv4RM {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.investment-mobile .monthly-xiovVP {
+  background-color: transparent;
+  height: auto;
+  left: 92px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.investment-mobile .weekly-xiovVP {
+  background-color: transparent;
+  height: auto;
+  left: 185px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.investment-mobile .daily-xiovVP {
+  background-color: transparent;
+  height: auto;
+  left: 270px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.investment-mobile .frame-6126-4fNt6v {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 452px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 392px;
+  width: 349px;
+}
+
+.investment-mobile .frame-6125-LtAxHg {
+  background-color: transparent;
+  height: 399px;
+  left: 44px;
+  position: relative;
+  top: 26px;
+  width: 261px;
+}
+
+.investment-mobile .your-investments-8ezgyD {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 173px;
+}
+
+.investment-mobile .frame-6124-8ezgyD {
+  background-color: transparent;
+  height: 350px;
+  left: 0px;
+  position: absolute;
+  top: 49px;
+  width: 261px;
+}
+
+.investment-mobile .frame-6067-5Gjmpu {
+  background-color: transparent;
+  height: 65px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 261px;
+}
+
+.investment-mobile .image-2-f31JMT {
+  background-color: transparent;
+  height: 65px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 65px;
+}
+
+.investment-mobile .x222-f31JMT {
+  background-color: transparent;
+  color: var(--emerald);
+  font-family: var(--font-family-dm_sans);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 128px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 17px;
+  white-space: nowrap;
+  width: 133px;
+}
+
+.investment-mobile .frame-6121-5Gjmpu {
+  background-color: transparent;
+  height: 56px;
+  left: 6px;
+  position: absolute;
+  top: 96px;
+  width: 255px;
+}
+
+.investment-mobile .image-3-1e9oXc {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.investment-mobile .x184-1e9oXc {
+  background-color: transparent;
+  color: #eb3535;
+  font-family: var(--font-family-dm_sans);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 120px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 12px;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.investment-mobile .frame-6122-5Gjmpu {
+  background-color: transparent;
+  height: 60px;
+  left: 4px;
+  position: absolute;
+  top: 183px;
+  width: 257px;
+}
+
+.investment-mobile .image-4-kgMxWl {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 60px;
+}
+
+.investment-mobile .x183-kgMxWl {
+  background-color: transparent;
+  color: var(--emerald);
+  font-family: var(--font-family-dm_sans);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 130px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 14px;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.investment-mobile .frame-6123-5Gjmpu {
+  background-color: transparent;
+  height: 76px;
+  left: 7px;
+  position: absolute;
+  top: 274px;
+  width: 254px;
+}
+
+.investment-mobile .image-5-MYkcHb {
+  background-color: transparent;
+  height: 76px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 45px;
+}
+
+.investment-mobile .x314-MYkcHb {
+  background-color: transparent;
+  color: var(--fern);
+  font-family: var(--font-family-dm_sans);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 22px;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.investment-mobile .frame-6131-4fNt6v {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 415px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 884px;
+  width: 349px;
+}
+
+.investment-mobile .frame-6130-wAURvW {
+  background-color: transparent;
+  height: 313px;
+  left: 45px;
+  position: relative;
+  top: 51px;
+  width: 259px;
+}
+
+.investment-mobile .make-an-investment-UeL4Oq {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 200px;
+}
+
+.investment-mobile .frame-6129-UeL4Oq {
+  background-color: transparent;
+  height: 172px;
+  left: 0px;
+  position: absolute;
+  top: 65px;
+  width: 259px;
+}
+
+.investment-mobile .frame-6127-WDI80z {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.investment-mobile .account-1QYaLe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 91px;
+}
+
+.investment-mobile .frame-6105-1QYaLe {
+  background-color: var(--card-background);
+  border-radius: 8px;
+  height: 36px;
+  left: 118px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 141px;
+}
+
+.investment-mobile .frame-6104-mgJWyl {
+  background-color: transparent;
+  height: 16px;
+  left: 12px;
+  position: relative;
+  top: 10px;
+  width: 117px;
+}
+
+.investment-mobile .account-Xzuf61 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.investment-mobile .vector-8-Xzuf61 {
+  background-color: transparent;
+  height: 9px;
+  left: 100px;
+  position: absolute;
+  top: 4px;
+  width: 18px;
+}
+
+.investment-mobile .frame-6128-WDI80z {
+  background-color: transparent;
+  height: 36px;
+  left: 7px;
+  position: absolute;
+  top: 68px;
+  width: 252px;
+}
+
+.investment-mobile .amount-rFxkoc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.investment-mobile .frame-6107-rFxkoc {
+  background-color: transparent;
+  height: 36px;
+  left: 104px;
+  position: absolute;
+  top: 0px;
+  width: 148px;
+}
+
+.investment-mobile .x-oqfQDL {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.investment-mobile .frame-6106-oqfQDL {
+  background-color: transparent;
+  border-radius: 8px;
+  height: 36px;
+  left: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 131px;
+}
+
+.investment-mobile .x10000-ewoLD8 {
+  background-color: transparent;
+  height: auto;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.investment-mobile .frame-6112-WDI80z {
+  background-color: transparent;
+  height: 36px;
+  left: 43px;
+  position: absolute;
+  top: 136px;
+  width: 216px;
+}
+
+.investment-mobile .frame-6109-YsdWJC {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 216px;
+}
+
+.investment-mobile .coin-7xUqN5 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.investment-mobile .frame-6108-7xUqN5 {
+  background-color: var(--card-background);
+  border-radius: 8px;
+  height: 36px;
+  left: 75px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 141px;
+}
+
+.investment-mobile .frame-6104-uRCcgz {
+  background-color: transparent;
+  height: 16px;
+  left: 12px;
+  position: relative;
+  top: 10px;
+  width: 117px;
+}
+
+.investment-mobile .bitcoin-iJinIS {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.investment-mobile .vector-8-iJinIS {
+  background-color: transparent;
+  height: 9px;
+  left: 100px;
+  position: absolute;
+  top: 4px;
+  width: 18px;
+}
+
+.investment-mobile .button-UeL4Oq {
+  background-color: var(--primary-color);
+  border-radius: 5px;
+  height: 44px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 269px;
+  width: 204px;
+}
+
+.investment-mobile .learn-more-Yy9EXV {
+  background-color: transparent;
+  height: auto;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.investment-mobile .frame-6093-4fNt6v {
+  background-color: var(--card-background);
+  border-radius: 26px;
+  height: 371px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1339px;
+  width: 377px;
+}
+
+.investment-mobile .performance-gkd8ra {
+  background-color: transparent;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  white-space: nowrap;
+  width: 196px;
+}
+
+.investment-mobile .frame-6092-gkd8ra {
+  background-color: transparent;
+  height: 226px;
+  left: 90px;
+  position: absolute;
+  top: 106px;
+  width: 196px;
+}
+
+.investment-mobile .best-investment-AhxaDH {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 196px;
+}
+
+.investment-mobile .frame-6087-AhxaDH {
+  background-color: transparent;
+  height: 175px;
+  left: 0px;
+  position: absolute;
+  top: 51px;
+  width: 196px;
+}
+
+.investment-mobile .frame-6086-mQL3vb {
+  background-color: transparent;
+  height: 131px;
+  left: 2px;
+  position: absolute;
+  top: 0px;
+  width: 191px;
+}
+
+.investment-mobile .image-6-07mVpV {
+  background-color: transparent;
+  height: 131px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 78px;
+}
+
+.investment-mobile .x314-07mVpV {
+  background-color: transparent;
+  height: auto;
+  left: 95px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 50px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.investment-mobile .ethereum-mQL3vb {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 146px;
+  white-space: nowrap;
+  width: 196px;
+}
+
+.investment-mobile .frame-6091-4fNt6v {
+  background-color: var(--card-background);
+  border-radius: 26px;
+  height: 263px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1750px;
+  width: 377px;
+}
+
+.investment-mobile .frame-6090-t3Dj1M {
+  background-color: transparent;
+  height: 225px;
+  left: 90px;
+  position: relative;
+  top: 19px;
+  width: 196px;
+}
+
+.investment-mobile .trending-token-pgpHcR {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 196px;
+}
+
+.investment-mobile .frame-6089-pgpHcR {
+  background-color: transparent;
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 57px;
+  width: 196px;
+}
+
+.investment-mobile .image-7-L077PN {
+  background-color: transparent;
+  height: 41px;
+  left: 22px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 151px;
+}
+
+.investment-mobile .ripple-L077PN {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  white-space: nowrap;
+  width: 196px;
+}
+
+.investment-mobile .frame-6088-pgpHcR {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 165px;
+  width: 196px;
+}
+
+.investment-mobile .last-24-hrs-g9kQC8 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 196px;
+}
+
+.investment-mobile .x459-g9kQC8 {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 96px;
+}
+/* screen - investment-page-desktop */
+
+.investment-page-desktop {
+  background-color: var(--primary-text);
+  height: 1024px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.investment-page-desktop .rectangle-14-5DgfHU {
+  background-color: var(--background);
+  border: 1px solid var(--black);
+  height: 930px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 94px;
+  width: 1317px;
+}
+
+.investment-page-desktop .rectangle-31-5DgfHU {
+  background-color: var(--background);
+  height: 1024px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.investment-page-desktop .menu-5DgfHU {
+  background-color: transparent;
+  height: 499px;
+  left: 23px;
+  position: absolute;
+  top: 307px;
+  width: 73px;
+}
+
+.investment-page-desktop .frame-6060-uNfRRS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 20px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 34px;
+}
+
+.investment-page-desktop .frame-6060-uNfRRS:hover {
+  transform: scale(1.1);
+}
+
+.investment-page-desktop .home-cABNGV {
+  background-color: transparent;
+  height: 30px;
+  left: 2px;
+  position: absolute;
+  top: -1px;
+  width: 29px;
+}
+
+.investment-page-desktop .home-81CWhS {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.investment-page-desktop .frame-6064-uNfRRS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 111px;
+  transition: all 0.2s ease;
+  width: 73px;
+}
+
+.investment-page-desktop .frame-6064-uNfRRS:hover {
+  transform: scale(1.1);
+}
+
+.investment-page-desktop .grid-layout-QxBJDr {
+  background-color: transparent;
+  height: 30px;
+  left: 22px;
+  position: absolute;
+  top: -1px;
+  width: 29px;
+}
+
+.investment-page-desktop .transactions-QxBJDr {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.investment-page-desktop .frame-6061-uNfRRS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 20px;
+  pointer-events: auto;
+  position: absolute;
+  top: 222px;
+  transition: all 0.2s ease;
+  width: 34px;
+}
+
+.investment-page-desktop .frame-6061-uNfRRS:hover {
+  background-color: #653DF7
+}
+
+.investment-page-desktop .briefcase-alt-FWwS0m {
+  background-color: transparent;
+  height: 30px;
+  left: 2px;
+  position: absolute;
+  top: -1px;
+  width: 29px;
+}
+
+.investment-page-desktop .invest-FWwS0m {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.investment-page-desktop .frame-6062-uNfRRS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 13px;
+  pointer-events: auto;
+  position: absolute;
+  top: 333px;
+  transition: all 0.2s ease;
+  width: 47px;
+}
+
+.investment-page-desktop .frame-6062-uNfRRS:hover {
+  transform: scale(1.1);
+}
+
+.investment-page-desktop .send-BWaRc9 {
+  background-color: transparent;
+  height: 30px;
+  left: 9px;
+  position: absolute;
+  top: -1px;
+  width: 29px;
+}
+
+.investment-page-desktop .transfer-BWaRc9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.investment-page-desktop .frame-6063-uNfRRS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 22px;
+  pointer-events: auto;
+  position: absolute;
+  top: 444px;
+  transition: all 0.2s ease;
+  width: 28px;
+}
+
+.investment-page-desktop .frame-6063-uNfRRS:hover {
+  transform: scale(1.1);
+}
+
+.investment-page-desktop .chat-UNvFBi {
+  background-color: transparent;
+  height: 30px;
+  left: -0px;
+  position: absolute;
+  top: -1px;
+  width: 29px;
+}
+
+.investment-page-desktop .help-UNvFBi {
+  background-color: transparent;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.investment-page-desktop .frame-6117-5DgfHU {
+  background-color: transparent;
+  height: 854px;
+  left: 118px;
+  position: absolute;
+  top: 94px;
+  width: 1285px;
+}
+
+.investment-page-desktop .frame-6115-Y94vlm {
+  background-color: transparent;
+  height: 854px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 998px;
+}
+
+.investment-page-desktop .frame-6103-IsjMGW {
+  background-color: var(--card-background);
+  border-radius: 33px;
+  height: 744px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 998px;
+}
+
+.investment-page-desktop .frame-6102-byr91w {
+  background-color: transparent;
+  height: 690px;
+  left: 27px;
+  position: relative;
+  top: 27px;
+  width: 944px;
+}
+
+.investment-page-desktop .invest-toggle-JxEi8Q {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 944px;
+}
+
+.investment-page-desktop .rectangle-32-CVtP3P {
+  background-color: var(--light-grey);
+  border-radius: 50px;
+  height: 82px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 942px;
+}
+
+.investment-page-desktop .rectangle-15-CVtP3P {
+  background-color: var(--primary-color);
+  border-radius: 84px;
+  height: 82px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 304px;
+}
+
+.investment-page-desktop .rectangle-34-CVtP3P {
+  background-color: transparent;
+  border-radius: 84px;
+  height: 82px;
+  left: 320px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 304px;
+}
+
+.investment-page-desktop .crypto-CVtP3P {
+  background-color: transparent;
+  height: auto;
+  left: 104px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 171px;
+}
+
+.investment-page-desktop .rectangle-33-CVtP3P {
+  background-color: transparent;
+  border-radius: 84px;
+  height: 82px;
+  left: 640px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 304px;
+}
+
+.investment-page-desktop .stock-CVtP3P {
+  background-color: transparent;
+  height: auto;
+  left: 440px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.investment-page-desktop .other-CVtP3P {
+  background-color: transparent;
+  height: auto;
+  left: 747px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 133px;
+}
+
+.investment-page-desktop .frame-6101-JxEi8Q {
+  background-color: transparent;
+  height: 40px;
+  left: 572px;
+  position: absolute;
+  top: 114px;
+  width: 372px;
+}
+
+.investment-page-desktop .frame-6100-ghjeJs {
+  background-color: var(--primary-color);
+  border-radius: 84px;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 92px;
+}
+
+.investment-page-desktop .yearly-sKfD60 {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.investment-page-desktop .monthly-ghjeJs {
+  background-color: transparent;
+  height: auto;
+  left: 117px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.investment-page-desktop .weekly-ghjeJs {
+  background-color: transparent;
+  height: auto;
+  left: 223px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.investment-page-desktop .daily-ghjeJs {
+  background-color: transparent;
+  height: auto;
+  left: 321px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.investment-page-desktop .image-1-JxEi8Q {
+  background-color: transparent;
+  height: 408px;
+  left: 43px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 186px;
+  width: 909px;
+}
+
+.investment-page-desktop .frame-6099-JxEi8Q {
+  background-color: transparent;
+  height: 76px;
+  left: 14px;
+  position: absolute;
+  top: 614px;
+  width: 930px;
+}
+
+.investment-page-desktop .your-investments-RCZhIX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 173px;
+}
+
+.investment-page-desktop .frame-6098-RCZhIX {
+  background-color: transparent;
+  height: 76px;
+  left: 206px;
+  position: absolute;
+  top: 0px;
+  width: 724px;
+}
+
+.investment-page-desktop .frame-6094-5XUehx {
+  background-color: transparent;
+  height: 65px;
+  left: 0px;
+  position: absolute;
+  top: 6px;
+  width: 160px;
+}
+
+.investment-page-desktop .image-2-PQOTFv {
+  background-color: transparent;
+  height: 65px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 65px;
+}
+
+.investment-page-desktop .x222-PQOTFv {
+  background-color: transparent;
+  color: var(--emerald);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.investment-page-desktop .frame-6095-5XUehx {
+  background-color: transparent;
+  height: 56px;
+  left: 202px;
+  position: absolute;
+  top: 10px;
+  width: 143px;
+}
+
+.investment-page-desktop .image-3-IojpRs {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.investment-page-desktop .x184-IojpRs {
+  background-color: transparent;
+  color: #eb3535;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 62px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.investment-page-desktop .frame-6096-5XUehx {
+  background-color: transparent;
+  height: 60px;
+  left: 387px;
+  position: absolute;
+  top: 8px;
+  width: 155px;
+}
+
+.investment-page-desktop .image-4-fkiHYJ {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 60px;
+}
+
+.investment-page-desktop .x183-fkiHYJ {
+  background-color: transparent;
+  color: var(--emerald);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.investment-page-desktop .frame-6097-5XUehx {
+  background-color: transparent;
+  height: 76px;
+  left: 584px;
+  position: absolute;
+  top: 0px;
+  width: 140px;
+}
+
+.investment-page-desktop .image-5-9UlHwo {
+  background-color: transparent;
+  height: 76px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 45px;
+}
+
+.investment-page-desktop .x314-9UlHwo {
+  background-color: transparent;
+  color: var(--fern);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.investment-page-desktop .frame-6114-IsjMGW {
+  background-color: var(--card-background);
+  border-radius: 33px;
+  height: 86px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 768px;
+  width: 995px;
+}
+
+.investment-page-desktop .frame-6113-XVNIbz {
+  background-color: transparent;
+  height: 44px;
+  left: 22px;
+  position: relative;
+  top: 21px;
+  width: 909px;
+}
+
+.investment-page-desktop .frame-6111-Eg7i5x {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 513px;
+}
+
+.investment-page-desktop .make-an-investment-I8e3kP {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 196px;
+}
+
+.investment-page-desktop .frame-6110-I8e3kP {
+  background-color: transparent;
+  height: 36px;
+  left: 208px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.investment-page-desktop .frame-6105-euFSC0 {
+  background-color: var(--card-background);
+  border-radius: 8px;
+  height: 36px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 141px;
+}
+
+.investment-page-desktop .frame-6104-kvvPuN {
+  background-color: transparent;
+  height: 16px;
+  left: 12px;
+  position: relative;
+  top: 10px;
+  width: 117px;
+}
+
+.investment-page-desktop .account-UqnVG8 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.investment-page-desktop .vector-8-UqnVG8 {
+  background-color: transparent;
+  height: 9px;
+  left: 100px;
+  position: absolute;
+  top: 4px;
+  width: 18px;
+}
+
+.investment-page-desktop .frame-6107-euFSC0 {
+  background-color: transparent;
+  height: 36px;
+  left: 157px;
+  position: absolute;
+  top: 0px;
+  width: 148px;
+}
+
+.investment-page-desktop .x-mF7AOy {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.investment-page-desktop .frame-6106-mF7AOy {
+  background-color: transparent;
+  border-radius: 8px;
+  height: 36px;
+  left: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 131px;
+}
+
+.investment-page-desktop .x10000-ledYTg {
+  background-color: transparent;
+  height: auto;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.investment-page-desktop .frame-6112-Eg7i5x {
+  background-color: transparent;
+  height: 36px;
+  left: 533px;
+  position: absolute;
+  top: 0px;
+  width: 209px;
+}
+
+.investment-page-desktop .frame-6109-5jxM4l {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 209px;
+}
+
+.investment-page-desktop .coin-8Gs86k {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.investment-page-desktop .frame-6108-8Gs86k {
+  background-color: var(--card-background);
+  border-radius: 8px;
+  height: 36px;
+  left: 68px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 141px;
+}
+
+.investment-page-desktop .frame-6104-xe5Gx4 {
+  background-color: transparent;
+  height: 16px;
+  left: 12px;
+  position: relative;
+  top: 10px;
+  width: 117px;
+}
+
+.investment-page-desktop .bitcoin-gbxO0X {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.investment-page-desktop .vector-8-gbxO0X {
+  background-color: transparent;
+  height: 9px;
+  left: 100px;
+  position: absolute;
+  top: 4px;
+  width: 18px;
+}
+
+.investment-page-desktop .button-Eg7i5x {
+  background-color: var(--primary-color);
+  border-radius: 5px;
+  height: 44px;
+  left: 762px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 147px;
+}
+
+.investment-page-desktop .learn-more-Obtc4x {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.investment-page-desktop .frame-6116-Y94vlm {
+  background-color: transparent;
+  height: 666px;
+  left: 1019px;
+  position: absolute;
+  top: 0px;
+  width: 266px;
+}
+
+.investment-page-desktop .frame-6093-LChj4B {
+  background-color: var(--card-background);
+  border-radius: 26px;
+  height: 371px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 266px;
+}
+
+.investment-page-desktop .performance-J0Qrk2 {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 39px;
+  white-space: nowrap;
+  width: 196px;
+}
+
+.investment-page-desktop .frame-6092-J0Qrk2 {
+  background-color: transparent;
+  height: 226px;
+  left: 35px;
+  position: absolute;
+  top: 106px;
+  width: 196px;
+}
+
+.investment-page-desktop .best-investment-qr6eIZ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 196px;
+}
+
+.investment-page-desktop .frame-6087-qr6eIZ {
+  background-color: transparent;
+  height: 175px;
+  left: 0px;
+  position: absolute;
+  top: 51px;
+  width: 196px;
+}
+
+.investment-page-desktop .frame-6086-w8ppXC {
+  background-color: transparent;
+  height: 131px;
+  left: 2px;
+  position: absolute;
+  top: 0px;
+  width: 191px;
+}
+
+.investment-page-desktop .image-6-vBQxl6 {
+  background-color: transparent;
+  height: 131px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 78px;
+}
+
+.investment-page-desktop .x314-vBQxl6 {
+  background-color: transparent;
+  height: auto;
+  left: 95px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 50px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.investment-page-desktop .ethereum-w8ppXC {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 146px;
+  white-space: nowrap;
+  width: 196px;
+}
+
+.investment-page-desktop .frame-6091-LChj4B {
+  background-color: var(--card-background);
+  border-radius: 26px;
+  height: 263px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 403px;
+  width: 266px;
+}
+
+.investment-page-desktop .frame-6090-Qa6ldK {
+  background-color: transparent;
+  height: 225px;
+  left: 30px;
+  position: relative;
+  top: 19px;
+  width: 196px;
+}
+
+.investment-page-desktop .trending-token-RmTo9E {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 196px;
+}
+
+.investment-page-desktop .frame-6089-RmTo9E {
+  background-color: transparent;
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 57px;
+  width: 196px;
+}
+
+.investment-page-desktop .image-7-0ID5gP {
+  background-color: transparent;
+  height: 41px;
+  left: 22px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 151px;
+}
+
+.investment-page-desktop .ripple-0ID5gP {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  white-space: nowrap;
+  width: 196px;
+}
+
+.investment-page-desktop .frame-6088-RmTo9E {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 165px;
+  width: 196px;
+}
+
+.investment-page-desktop .last-24-hrs-C29Qsc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 196px;
+}
+
+.investment-page-desktop .x459-C29Qsc {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.investment-page-desktop .nav-5DgfHU {
+  background-color: transparent;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 4px;
+  width: 1440px;
+}
+
+.investment-page-desktop .top-nav-TPBpIh {
+  background-color: var(--background);
+  height: 90px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 1393px;
+}
+
+.investment-page-desktop .frame-5590-rh2uKy {
+  background-color: transparent;
+  height: 36px;
+  left: 30px;
+  position: relative;
+  top: 27px;
+  width: 1333px;
+}
+
+.investment-page-desktop .frame-5589-zHDsx1 {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 620px;
+}
+
+.investment-page-desktop .frame-5587-B5A98f {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 137px;
+}
+
+.investment-page-desktop .digital-bank-5INV0E {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.investment-page-desktop .frame-5588-B5A98f {
+  background-color: var(--card-background);
+  border-radius: 21px;
+  box-shadow: 0px 4px 4px #aea4f40d;
+  height: 36px;
+  left: 168px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 452px;
+}
+
+.investment-page-desktop .search-TAQJ01 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.investment-page-desktop .screenshot-2021-10-23-at-1648-2-zHDsx1 {
+  background-color: transparent;
+  height: 35px;
+  left: 1172px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 161px;
+}
+@media screen and (max-width: 1439px) {
+  .screen.investment-page-desktop { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.investment-mobile { 
+    display: none;
+   }
+}

@@ -1,0 +1,2392 @@
+/* screen - dashboard-desktop */
+
+.dashboard-desktop {
+  background-color: var(--background);
+  height: 893px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.dashboard-desktop .frame-6057-ZIAktF {
+  background-color: transparent;
+  height: 760px;
+  left: 102px;
+  position: absolute;
+  top: 93px;
+  width: 949px;
+}
+
+.dashboard-desktop .frame-5608-eLBa7O {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 506px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 949px;
+}
+
+.dashboard-desktop .frame-5607-06RnVX {
+  background-color: transparent;
+  height: 440px;
+  left: 30px;
+  position: relative;
+  top: 33px;
+  width: 889px;
+}
+
+.dashboard-desktop .frame-5593-3npiDy {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 889px;
+}
+
+.dashboard-desktop .summary-KX0I3K {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .december-12-KX0I3K {
+  background-color: transparent;
+  height: auto;
+  left: 760px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .frame-5594-3npiDy {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 64px;
+  width: 340px;
+}
+
+.dashboard-desktop .frame-5592-omRw22 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 340px;
+}
+
+.dashboard-desktop .stats-lp8C4p {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 121px;
+}
+
+.dashboard-desktop .x6-Ruk1ox {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .frame-5591-Ruk1ox {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 32px;
+  width: 101px;
+}
+
+.dashboard-desktop .in-progress-v1KUm0 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .ellipse-1-v1KUm0 {
+  background-color: var(--background);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 94px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 7px;
+}
+
+.dashboard-desktop .stats-uFUk87 {
+  background-color: transparent;
+  height: 56px;
+  left: 209px;
+  position: absolute;
+  top: 0px;
+  width: 131px;
+}
+
+.dashboard-desktop .x6-Tbx9g8 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .frame-5591-Tbx9g8 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 32px;
+  width: 131px;
+}
+
+.dashboard-desktop .in-progress-KO1N0R {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .ellipse-1-KO1N0R {
+  background-color: var(--background);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 124px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 7px;
+}
+
+.dashboard-desktop .frame-6052-3npiDy {
+  background-color: transparent;
+  height: 184px;
+  left: 0px;
+  position: absolute;
+  top: 152px;
+  width: 646px;
+}
+
+.dashboard-desktop .card-1-8fp4Ng {
+  background-color: transparent;
+  height: 184px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 323px;
+}
+
+.dashboard-desktop .card1bg-cvAb8j {
+  background-color: transparent;
+  height: 184px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 315px;
+}
+
+.dashboard-desktop .card-1-mask-cvAb8j {
+  background-color: transparent;
+  height: 184px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 315px;
+}
+
+.dashboard-desktop .x0925-cvAb8j {
+  background-color: transparent;
+  height: auto;
+  left: 242px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 146px;
+  width: 43px;
+}
+
+.dashboard-desktop .x5282-cvAb8j {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  position: absolute;
+  text-align: left;
+  top: 146px;
+  width: 165px;
+}
+
+.dashboard-desktop .mastercardlogo-cvAb8j {
+  background-color: transparent;
+  height: 36px;
+  left: 240px;
+  position: absolute;
+  top: 25px;
+  width: 45px;
+}
+
+.dashboard-desktop .x575020-cvAb8j {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: 145px;
+}
+
+.dashboard-desktop .current-balance-cvAb8j {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.54;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: auto;
+}
+
+.dashboard-desktop .card-4-8fp4Ng {
+  background-color: transparent;
+  height: 184px;
+  left: 331px;
+  position: absolute;
+  top: 0px;
+  width: 323px;
+}
+
+.dashboard-desktop .card4bg-prYkSC {
+  background-color: transparent;
+  height: 184px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 315px;
+}
+
+.dashboard-desktop .card-4-mask-prYkSC {
+  background-color: transparent;
+  height: 184px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 315px;
+}
+
+.dashboard-desktop .x1224-prYkSC {
+  background-color: transparent;
+  height: auto;
+  left: 242px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 146px;
+  width: 43px;
+}
+
+.dashboard-desktop .x5294-prYkSC {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  position: absolute;
+  text-align: left;
+  top: 146px;
+  width: 165px;
+}
+
+.dashboard-desktop .mastercardlogo-prYkSC {
+  background-color: transparent;
+  height: 36px;
+  left: 240px;
+  position: absolute;
+  top: 25px;
+  width: 45px;
+}
+
+.dashboard-desktop .x457080-prYkSC {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: 145px;
+}
+
+.dashboard-desktop .current-balance-prYkSC {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.54;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: 126px;
+}
+
+.dashboard-desktop .request-3npiDy {
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  position: absolute;
+  top: 368px;
+  width: 648px;
+}
+
+.dashboard-desktop .vector-5-9i1R0L {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 650px;
+}
+
+.dashboard-desktop .frame-6056-9i1R0L {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 24px;
+  width: 648px;
+}
+
+.dashboard-desktop .frame-5611-WBZuYo {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 285px;
+}
+
+.dashboard-desktop .keyboardarrowdown-NnVFPl {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.dashboard-desktop .savings-account-5667889-NnVFPl {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 253px;
+}
+
+.dashboard-desktop .x400056-WBZuYo {
+  background-color: transparent;
+  height: auto;
+  left: 577px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: 71px;
+}
+
+.dashboard-desktop .vector-6-9i1R0L {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  position: absolute;
+  top: 71px;
+  width: 650px;
+}
+
+.dashboard-desktop .frame-5609-eLBa7O {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 230px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 530px;
+  width: 945px;
+}
+
+.dashboard-desktop .frame-5593-hTCedx {
+  background-color: transparent;
+  height: 32px;
+  left: 30px;
+  position: absolute;
+  top: 33px;
+  width: 888px;
+}
+
+.dashboard-desktop .recent-transactions-r139Zg {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .june-2021-r139Zg {
+  background-color: transparent;
+  height: auto;
+  left: 787px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .group-6051-hTCedx {
+  background-color: transparent;
+  height: 116px;
+  left: 30px;
+  position: absolute;
+  top: 81px;
+  width: 900px;
+}
+
+.dashboard-desktop .table-VK4CdI {
+  background-color: transparent;
+  height: 116px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 900px;
+}
+
+.dashboard-desktop .table-header-iV4vzj {
+  background-color: transparent;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 896px;
+}
+
+.dashboard-desktop .group-6056-hZAFpI {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 902px;
+}
+
+.dashboard-desktop .date-bQeDx9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.dashboard-desktop .description-bQeDx9 {
+  background-color: transparent;
+  height: auto;
+  left: 350px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 153px;
+}
+
+.dashboard-desktop .amount-bQeDx9 {
+  background-color: transparent;
+  height: auto;
+  left: 790px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 106px;
+}
+
+.dashboard-desktop .vector-1-hZAFpI {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 25px;
+  width: 896px;
+}
+
+.dashboard-desktop .table-row-iV4vzj {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  position: absolute;
+  top: 42px;
+  width: 900px;
+}
+
+.dashboard-desktop .frame-6050-nYKlxp {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 900px;
+}
+
+.dashboard-desktop .group-6052-c1y8XF {
+  background-color: transparent;
+  height: 18px;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+
+.dashboard-desktop .may-31-2021-ekjIV6 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .pos-purchase-26-1855280027-caus-c1y8XF {
+  background-color: transparent;
+  height: auto;
+  left: 351px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 341px;
+}
+
+.dashboard-desktop .x456-c1y8XF {
+  background-color: transparent;
+  height: auto;
+  left: 821px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .vector-2-nYKlxp {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  position: absolute;
+  top: 28px;
+  width: 897px;
+}
+
+.dashboard-desktop .table-row-zLoURa {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  position: absolute;
+  top: 87px;
+  width: 900px;
+}
+
+.dashboard-desktop .frame-6050-mxyPZr {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 900px;
+}
+
+.dashboard-desktop .group-6052-acxAUb {
+  background-color: transparent;
+  height: 18px;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: 81px;
+}
+
+.dashboard-desktop .may-31-2021-xegazR {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .pos-purchase-26-1855280027-caus-acxAUb {
+  background-color: transparent;
+  height: auto;
+  left: 351px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 341px;
+}
+
+.dashboard-desktop .x456-acxAUb {
+  background-color: transparent;
+  height: auto;
+  left: 821px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .vector-2-mxyPZr {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  position: absolute;
+  top: 28px;
+  width: 897px;
+}
+
+.dashboard-desktop .group-6-ZIAktF {
+  background-color: transparent;
+  height: 417px;
+  left: 1071px;
+  position: absolute;
+  top: 93px;
+  width: 341px;
+}
+
+.dashboard-desktop .rectangle-5-sb8VFw {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 417px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 339px;
+}
+
+.dashboard-desktop .credit-score-sb8VFw {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .group-6060-sb8VFw {
+  background-color: transparent;
+  height: 285px;
+  left: 27px;
+  position: absolute;
+  top: 92px;
+  width: 285px;
+}
+
+.dashboard-desktop .group-6059-EfUzxI {
+  background-color: transparent;
+  height: 285px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 285px;
+}
+
+.dashboard-desktop .group-6057-15tTJN {
+  background-color: transparent;
+  height: 285px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 285px;
+}
+
+.dashboard-desktop .group-6060-1-km8SFV {
+  background-color: transparent;
+  height: 285px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 285px;
+}
+
+.dashboard-desktop .frame-6068-15tTJN {
+  background-color: transparent;
+  height: 204px;
+  left: 28px;
+  position: absolute;
+  top: 73px;
+  width: 236px;
+}
+
+.dashboard-desktop .frame-6067-ELrlzu {
+  background-color: transparent;
+  height: 92px;
+  left: 66px;
+  position: absolute;
+  top: 0px;
+  width: 105px;
+}
+
+.dashboard-desktop .x792-NxrzHv {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .very-good-NxrzHv {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .updated-novembe-ecember-29-2021-ELrlzu {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 108px;
+  width: auto;
+}
+
+.dashboard-desktop .button-ELrlzu {
+  background-color: var(--primary-color);
+  border-radius: 5px;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 160px;
+  width: 236px;
+}
+
+.dashboard-desktop .learn-more-Krls3V {
+  background-color: transparent;
+  height: auto;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .group-6056-ZIAktF {
+  background-color: transparent;
+  height: 317px;
+  left: 1071px;
+  position: absolute;
+  top: 536px;
+  width: 341px;
+}
+
+.dashboard-desktop .rectangle-5-FRigyP {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 317px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 339px;
+}
+
+.dashboard-desktop .cash-back-FRigyP {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .group-6060-FRigyP {
+  background-color: transparent;
+  height: 168px;
+  left: 55px;
+  position: absolute;
+  top: 96px;
+  width: 236px;
+}
+
+.dashboard-desktop .frame-6059-13xjxb {
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 236px;
+}
+
+.dashboard-desktop .x345-LOaox0 {
+  background-color: transparent;
+  height: auto;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .updated-novembe-ecember-29-2021-LOaox0 {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 72px;
+  width: auto;
+}
+
+.dashboard-desktop .button-LOaox0 {
+  background-color: var(--primary-color);
+  border-radius: 5px;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 124px;
+  width: 236px;
+}
+
+.dashboard-desktop .learn-more-Cpu9XK {
+  background-color: transparent;
+  height: auto;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .menu-ZIAktF {
+  background-color: transparent;
+  height: 499px;
+  left: 17px;
+  position: absolute;
+  top: 197px;
+  width: 73px;
+}
+
+.dashboard-desktop .frame-6060-4lKzVB {
+  background-color: transparent;
+  height: 55px;
+  left: 20px;
+  position: absolute;
+  top: 0px;
+  width: 34px;
+}
+
+.dashboard-desktop .home-tLuwry {
+  background-color: transparent;
+  height: 30px;
+  left: 2px;
+  position: absolute;
+  top: -1px;
+  width: 29px;
+}
+
+.dashboard-desktop .home-9bJU68 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .frame-6064-4lKzVB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 111px;
+  transition: all 0.2s ease;
+  width: 73px;
+}
+
+.dashboard-desktop .frame-6064-4lKzVB:hover {
+  transform: scale(1.1);
+}
+
+.dashboard-desktop .grid-layout-HI66ia {
+  background-color: transparent;
+  height: 30px;
+  left: 22px;
+  position: absolute;
+  top: -1px;
+  width: 29px;
+}
+
+.dashboard-desktop .transactions-HI66ia {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .frame-6061-4lKzVB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 20px;
+  pointer-events: auto;
+  position: absolute;
+  top: 222px;
+  transition: all 0.2s ease;
+  width: 34px;
+}
+
+.dashboard-desktop .frame-6061-4lKzVB:hover {
+  transform: scale(1.1);
+}
+
+.dashboard-desktop .briefcase-alt-xQ7Lfz {
+  background-color: transparent;
+  height: 30px;
+  left: 2px;
+  position: absolute;
+  top: -1px;
+  width: 29px;
+}
+
+.dashboard-desktop .invest-xQ7Lfz {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .frame-6062-4lKzVB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 13px;
+  pointer-events: auto;
+  position: absolute;
+  top: 333px;
+  transition: all 0.2s ease;
+  width: 47px;
+}
+
+.dashboard-desktop .frame-6062-4lKzVB:hover {
+  transform: scale(1.1);
+}
+
+.dashboard-desktop .send-RLU3ML {
+  background-color: transparent;
+  height: 30px;
+  left: 9px;
+  position: absolute;
+  top: -1px;
+  width: 29px;
+}
+
+.dashboard-desktop .transfer-RLU3ML {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .frame-6063-4lKzVB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 22px;
+  pointer-events: auto;
+  position: absolute;
+  top: 444px;
+  transition: all 0.2s ease;
+  width: 28px;
+}
+
+.dashboard-desktop .frame-6063-4lKzVB:hover {
+  transform: scale(1.1);
+}
+
+.dashboard-desktop .chat-ydkphR {
+  background-color: transparent;
+  height: 30px;
+  left: -0px;
+  position: absolute;
+  top: -1px;
+  width: 29px;
+}
+
+.dashboard-desktop .help-ydkphR {
+  background-color: transparent;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .nav-ZIAktF {
+  background-color: transparent;
+  height: 90px;
+  left: 24px;
+  position: absolute;
+  top: 3px;
+  width: 1393px;
+}
+
+.dashboard-desktop .top-nav-57xupC {
+  background-color: var(--background);
+  height: 90px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 1393px;
+}
+
+.dashboard-desktop .frame-5590-YFtQQU {
+  background-color: transparent;
+  height: 36px;
+  left: 30px;
+  position: relative;
+  top: 27px;
+  width: 1333px;
+}
+
+.dashboard-desktop .frame-5589-bxgnxO {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 620px;
+}
+
+.dashboard-desktop .frame-5587-8KeTsd {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 137px;
+}
+
+.dashboard-desktop .digital-bank-xaUMBs {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .frame-5588-8KeTsd {
+  background-color: var(--card-background);
+  border-radius: 21px;
+  box-shadow: 0px 4px 4px #aea4f40d;
+  height: 36px;
+  left: 168px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 452px;
+}
+
+.dashboard-desktop .search-mX0hjP {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-desktop .screenshot-2021-10-23-at-1648-2-bxgnxO {
+  background-color: transparent;
+  height: 35px;
+  left: 1172px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 161px;
+}
+/* screen - dashboard-mobile */
+
+.dashboard-mobile {
+  background-color: var(--background);
+  height: 2036px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.dashboard-mobile .frame-5615-5z5mp5 {
+  background-color: transparent;
+  height: 1976px;
+  left: -2px;
+  position: relative;
+  top: 0px;
+  width: 377px;
+}
+
+.dashboard-mobile .nav-oVjCMf {
+  background-color: var(--background);
+  height: 149px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 377px;
+}
+
+.dashboard-mobile .frame-5590-QPxGdP {
+  background-color: transparent;
+  height: 95px;
+  left: 30px;
+  position: relative;
+  top: 27px;
+  width: 347px;
+}
+
+.dashboard-mobile .frame-5589-yMJz4D {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 347px;
+}
+
+.dashboard-mobile .frame-5587-kMm4f9 {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 4px;
+  width: 36px;
+}
+
+.dashboard-mobile .screenshot-2021-10-23-at-1648-2-PUwnSq {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 36px;
+}
+
+.dashboard-mobile .frame-5588-kMm4f9 {
+  background-color: var(--card-background);
+  border-radius: 21px;
+  box-shadow: 0px 4px 4px #aea4f40d;
+  height: 36px;
+  left: 60px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 265px;
+}
+
+.dashboard-mobile .search-bsx231 {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-mobile .screenshot-2021-10-23-at-1648-2-yMJz4D {
+  background-color: transparent;
+  height: 35px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 60px;
+  width: 149px;
+}
+
+.dashboard-mobile .frame-6069-oVjCMf {
+  background-color: transparent;
+  height: 1802px;
+  left: 13px;
+  position: absolute;
+  top: 174px;
+  width: 351px;
+}
+
+.dashboard-mobile .frame-5608-xdCWJA {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 712px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 351px;
+}
+
+.dashboard-mobile .frame-5607-XSSrq1 {
+  background-color: transparent;
+  height: 552px;
+  left: 16px;
+  position: absolute;
+  top: 19px;
+  width: 319px;
+}
+
+.dashboard-mobile .frame-5593-Gxiznc {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 319px;
+}
+
+.dashboard-mobile .summary-vnQoOa {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-mobile .december-12-vnQoOa {
+  background-color: transparent;
+  height: auto;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-mobile .frame-5594-Gxiznc {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 72px;
+  width: 276px;
+}
+
+.dashboard-mobile .frame-5592-C04oHN {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 276px;
+}
+
+.dashboard-mobile .stats-AQtDmy {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 121px;
+}
+
+.dashboard-mobile .x6-aLHXpG {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-mobile .frame-5591-aLHXpG {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 32px;
+  width: 82px;
+}
+
+.dashboard-mobile .in-progress-EjKkx2 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.24px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-mobile .ellipse-1-EjKkx2 {
+  background-color: var(--card-background);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 75px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 7px;
+}
+
+.dashboard-mobile .stats-VNvTSQ {
+  background-color: transparent;
+  height: 56px;
+  left: 171px;
+  position: absolute;
+  top: 0px;
+  width: 105px;
+}
+
+.dashboard-mobile .x6-zagKrx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-mobile .frame-5591-zagKrx {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 32px;
+  width: 105px;
+}
+
+.dashboard-mobile .in-progress-tehVDJ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.24px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-mobile .ellipse-1-tehVDJ {
+  background-color: var(--card-background);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 98px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 7px;
+}
+
+.dashboard-mobile .frame-6052-Gxiznc {
+  background-color: transparent;
+  height: 384px;
+  left: 0px;
+  position: absolute;
+  top: 168px;
+  width: 315px;
+}
+
+.dashboard-mobile .card-1-LFx2dx {
+  background-color: transparent;
+  height: 184px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 323px;
+}
+
+.dashboard-mobile .card1bg-N9enfG {
+  background-color: transparent;
+  height: 184px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 315px;
+}
+
+.dashboard-mobile .card-1-mask-N9enfG {
+  background-color: transparent;
+  height: 184px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 315px;
+}
+
+.dashboard-mobile .x0925-N9enfG {
+  background-color: transparent;
+  height: auto;
+  left: 242px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 146px;
+  width: 43px;
+}
+
+.dashboard-mobile .x5282-N9enfG {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  position: absolute;
+  text-align: left;
+  top: 146px;
+  width: 165px;
+}
+
+.dashboard-mobile .mastercardlogo-N9enfG {
+  background-color: transparent;
+  height: 36px;
+  left: 240px;
+  position: absolute;
+  top: 25px;
+  width: 45px;
+}
+
+.dashboard-mobile .x575020-N9enfG {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: 145px;
+}
+
+.dashboard-mobile .current-balance-N9enfG {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.54;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: auto;
+}
+
+.dashboard-mobile .card-4-LFx2dx {
+  background-color: transparent;
+  height: 184px;
+  left: 0px;
+  position: absolute;
+  top: 200px;
+  width: 323px;
+}
+
+.dashboard-mobile .card4bg-2G6Wzb {
+  background-color: transparent;
+  height: 184px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 315px;
+}
+
+.dashboard-mobile .card-4-mask-2G6Wzb {
+  background-color: transparent;
+  height: 184px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 315px;
+}
+
+.dashboard-mobile .x1224-2G6Wzb {
+  background-color: transparent;
+  height: auto;
+  left: 242px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 146px;
+  width: 43px;
+}
+
+.dashboard-mobile .x5294-2G6Wzb {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  position: absolute;
+  text-align: left;
+  top: 146px;
+  width: 165px;
+}
+
+.dashboard-mobile .mastercardlogo-2G6Wzb {
+  background-color: transparent;
+  height: 36px;
+  left: 240px;
+  position: absolute;
+  top: 25px;
+  width: 45px;
+}
+
+.dashboard-mobile .x457080-2G6Wzb {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: 145px;
+}
+
+.dashboard-mobile .current-balance-2G6Wzb {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.54;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: 126px;
+}
+
+.dashboard-mobile .request-XSSrq1 {
+  background-color: transparent;
+  height: 98px;
+  left: 16px;
+  position: absolute;
+  top: 595px;
+  width: 309px;
+}
+
+.dashboard-mobile .vector-5-Lb9KeQ {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 311px;
+}
+
+.dashboard-mobile .frame-6056-Lb9KeQ {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 24px;
+  width: 136px;
+}
+
+.dashboard-mobile .frame-5611-xqYWMm {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 285px;
+}
+
+.dashboard-mobile .keyboardarrowdown-fT9PVt {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.dashboard-mobile .savings-account-5667889-fT9PVt {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 253px;
+}
+
+.dashboard-mobile .x400056-xqYWMm {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 32px;
+  white-space: nowrap;
+  width: 281px;
+}
+
+.dashboard-mobile .vector-6-Lb9KeQ {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  position: absolute;
+  top: 97px;
+  width: 311px;
+}
+
+.dashboard-mobile .frame-5609-xdCWJA {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 274px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 752px;
+  width: 351px;
+}
+
+.dashboard-mobile .frame-5593-0MmT9m {
+  background-color: transparent;
+  height: 28px;
+  left: 30px;
+  position: absolute;
+  top: 33px;
+  width: 304px;
+}
+
+.dashboard-mobile .recent-transactions-fulfNL {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-mobile .june-2021-fulfNL {
+  background-color: transparent;
+  height: auto;
+  left: 223px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-mobile .group-6051-0MmT9m {
+  background-color: transparent;
+  height: 164px;
+  left: 30px;
+  position: absolute;
+  top: 77px;
+  width: 305px;
+}
+
+.dashboard-mobile .table-jB8rW9 {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 305px;
+}
+
+.dashboard-mobile .table-header-yjN4Yo {
+  background-color: transparent;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.dashboard-mobile .group-6056-xXI2Lr {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 125px;
+}
+
+.dashboard-mobile .tue-23-nov-2021-7VwsMl {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 123px;
+}
+
+.dashboard-mobile .vector-1-xXI2Lr {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 25px;
+  width: 305px;
+}
+
+.dashboard-mobile .table-row-yjN4Yo {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 42px;
+  width: 305px;
+}
+
+.dashboard-mobile .frame-6050-xrLiqo {
+  background-color: transparent;
+  height: 45px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.dashboard-mobile .pos-purchase-26-1855280027-caus-VijWlI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 217px;
+}
+
+.dashboard-mobile .x456-VijWlI {
+  background-color: transparent;
+  height: auto;
+  left: 256px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-mobile .vector-2-xrLiqo {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 52px;
+  width: 305px;
+}
+
+.dashboard-mobile .table-row-3p5wns {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 111px;
+  width: 305px;
+}
+
+.dashboard-mobile .frame-6050-RM74n2 {
+  background-color: transparent;
+  height: 45px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.dashboard-mobile .pos-purchase-26-1855280027-caus-xkJVps {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 217px;
+}
+
+.dashboard-mobile .x456-xkJVps {
+  background-color: transparent;
+  height: auto;
+  left: 256px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-mobile .vector-2-RM74n2 {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 52px;
+  width: 305px;
+}
+
+.dashboard-mobile .group-6-xdCWJA {
+  background-color: transparent;
+  height: 417px;
+  left: 0px;
+  position: absolute;
+  top: 1066px;
+  width: 353px;
+}
+
+.dashboard-mobile .rectangle-5-p3tCZi {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 417px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 351px;
+}
+
+.dashboard-mobile .credit-score-p3tCZi {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-mobile .group-6060-p3tCZi {
+  background-color: transparent;
+  height: 285px;
+  left: 33px;
+  position: absolute;
+  top: 96px;
+  width: 285px;
+}
+
+.dashboard-mobile .group-6059-QnStup {
+  background-color: transparent;
+  height: 285px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 285px;
+}
+
+.dashboard-mobile .button-pXxxEY {
+  background-color: var(--primary-color);
+  border-radius: 5px;
+  height: 44px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 220px;
+  width: 236px;
+}
+
+.dashboard-mobile .learn-more-5twwBm {
+  background-color: transparent;
+  height: auto;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-mobile .group-6060-1-pXxxEY {
+  background-color: transparent;
+  height: 285px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 285px;
+}
+
+.dashboard-mobile .frame-6066-pXxxEY {
+  background-color: transparent;
+  height: 133px;
+  left: 37px;
+  position: absolute;
+  top: 54px;
+  width: 211px;
+}
+
+.dashboard-mobile .group-6058-ZHek6g {
+  background-color: transparent;
+  height: 81px;
+  left: 51px;
+  position: absolute;
+  top: 0px;
+  width: 109px;
+}
+
+.dashboard-mobile .frame-6065-6GKqEj {
+  background-color: transparent;
+  height: 81px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 109px;
+}
+
+.dashboard-mobile .x792-xWKcUK {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 56px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.dashboard-mobile .very-good-xWKcUK {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  white-space: nowrap;
+  width: 109px;
+}
+
+.dashboard-mobile .updated-novembe-ecember-29-2021-ZHek6g {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 97px;
+  width: auto;
+}
+
+.dashboard-mobile .group-6056-xdCWJA {
+  background-color: transparent;
+  height: 279px;
+  left: 0px;
+  position: absolute;
+  top: 1523px;
+  width: 353px;
+}
+
+.dashboard-mobile .rectangle-5-KH37G3 {
+  background-color: var(--card-background);
+  border-radius: 25px;
+  height: 279px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 351px;
+}
+
+.dashboard-mobile .cash-back-KH37G3 {
+  background-color: transparent;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 155px;
+}
+
+.dashboard-mobile .group-6060-KH37G3 {
+  background-color: transparent;
+  height: 176px;
+  left: 58px;
+  position: absolute;
+  top: 74px;
+  width: 236px;
+}
+
+.dashboard-mobile .frame-6059-tizWoz {
+  background-color: transparent;
+  height: 176px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 236px;
+}
+
+.dashboard-mobile .x345-mcIq3g {
+  background-color: transparent;
+  color: var(--primary-text);
+  font-family: var(--font-family-dm_sans);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-mobile .updated-novembe-ecember-29-2021-mcIq3g {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 72px;
+  width: auto;
+}
+
+.dashboard-mobile .button-mcIq3g {
+  background-color: var(--primary-color);
+  border-radius: 5px;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 132px;
+  width: 236px;
+}
+
+.dashboard-mobile .learn-more-vA1Tph {
+  background-color: transparent;
+  height: auto;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: auto;
+}
+@media screen and (max-width: 1439px) {
+  .screen.dashboard-desktop { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.dashboard-mobile { 
+    display: none;
+   }
+}
